@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kevin.gourjau@gmail.com
+	name = Kevin Gourjau
